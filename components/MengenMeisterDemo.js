@@ -1,7 +1,8 @@
 export default function MengenMeisterDemo() {
   return (
     <div>
-      <h1>✅ MengenMeister UI ist aktiv!</h1>
+      <h1>✅ MengenMeister funktioniert!</h1>
     </div>
   );
 }
+
